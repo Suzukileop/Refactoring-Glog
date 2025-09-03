@@ -5,6 +5,7 @@ public class Humain {
     protected String prenom;
     protected int age;
     
+    
     public Humain() {}
     
     public Humain(String nom, String prenom, int age) {
